@@ -1,31 +1,44 @@
-#  Neon Maze Quest
+# Neon Maze Quest 🎮
 
-A sleek, interactive maze game built from scratch. Navigate the neon ball through the labyrinth without hitting the walls to reach the goal! 
+A browser-based maze game where you navigate a glowing orb through a labyrinth to reach the goal. Built entirely with vanilla JavaScript and Tailwind CSS, focusing on custom game logic and a clean, reactive UI.
 
-This project was built to demonstrate dynamic DOM manipulation, responsive UI design using Tailwind CSS, and custom game logic implementation.
+## Features
 
-## 🚀 Features
-- **Neon Aesthetic:** Dark-themed UI with custom glow effects and animations.
-- **Custom Game Logic:** Real-time collision detection using coordinate checking.
-- **Life System:** A 3-heart system to manage player lives.
-- **Responsive Controls:** Intuitive keyboard navigation support.
-- **Win/Loss Feedback:** Custom modal system for end-game feedback.
+- **Custom Collision Logic:** Real-time coordinate tracking to handle wall impacts and smooth movement.
+- **Neon Aesthetic:** Dark-themed UI built with Tailwind, featuring custom CSS glow effects and smooth transitions.
+- **Game State Management:** Includes a 3-life system and custom modals for win/loss feedback.
+- **Keyboard Controls:** Responsive arrow-key input for fluid gameplay.
 
-## 🛠 Tech Stack
-- **HTML5:** Semantic structure.
-- **Tailwind CSS:** Utility-first styling for the neon look and layout.
-- **JavaScript (ES6+):** Logic, collision detection, and DOM manipulation.
+## Tech Stack
 
-## 🎮 How to Play
-1. Clone this repository.
-2. Open `index.html` in your browser.
-3. Use your **Arrow Keys** (↑, ↓, ←, →) to guide the ball through the maze.
-4. Avoid the walls, or you'll lose a life!
+- **HTML5**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
 
-<img width="1302" height="1022" alt="Image" src="https://github.com/user-attachments/assets/2f5093da-b282-437a-beed-7f2d163b3e9d" />
-## 👩‍💻 Developed by
+## Gameplay Preview
+
+<img width="800" alt="Neon Maze Quest Gameplay" src="https://github.com/user-attachments/assets/2f5093da-b282-437a-beed-7f2d163b3e9d" />
+
+## Getting Started
+
+No build tools or dependencies required.
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/FtmDhn/neon-maze-quest.git 
+
+```
+2.Open index.html in your browser.
+
+3.Use the Arrow Keys (↑, ↓, ←, →) to guide the ball. Avoid the walls, or you’ll lose a life!
+
+## Author
+
 **Fatemeh Dehghani**
-- [Portfolio/LinkedIn](https://linkedin.com/in/FatemehDehghani)
-- [GitHub](https://github.com/FtmDhn)
 
-*If you enjoyed this project, feel free to star the repository!*
+- [LinkedIn](لینک-پروفایل-لینکدین-خود-را-اینجا-بگذارید)
+- [GitHub](https://github.com/FtmDhn)
+- [Instagram](https://github.com/FtmDhn)
+
+
+
