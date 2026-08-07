@@ -21,7 +21,8 @@ A browser-based maze game where you navigate a glowing orb through a labyrinth t
 
 ### 🌐 Live Demo
 
-👉 **[Play Here!](https://vercel.com/ftmdhns-projects/neon-maze-game/8oXQhMceBV7sLWh3yUyfoFPQ4kLo)**
+👉 **[Play Here!](https://neon-maze-game-git-main-ftmdhns-projects.vercel.app/)**
+
 [support link](https://ftmdhn.github.io/neon-maze-game/)
 
 <br>
