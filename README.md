@@ -36,10 +36,9 @@ No build tools or dependencies required.
 git clone https://github.com/FtmDhn/neon-maze-quest.git 
 
 ```
-2.Open index.html in your browser.
+2. **Open index.html in your browser.**
 
-3.Use the Arrow Keys (↑, ↓, ←, →) to guide the ball. Avoid the walls, or you’ll lose a life!
-
+3. **Use the Arrow Keys (↑, ↓, ←, →) to guide the ball. Avoid the walls, or you’ll lose a life!**
 ## Author
 
 **Fatemeh Dehghani**
