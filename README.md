@@ -21,8 +21,8 @@ A browser-based maze game where you navigate a glowing orb through a labyrinth t
 
 ### 🌐 Live Demo
 
-👉 [Click here to view the project online](https://restaurant-landing-page-henna.vercel.app/)  
-[support link](https://ftmdhn.github.io/restaurant-landing-page/)
+👉 **[Play Here!](https://vercel.com/ftmdhns-projects/neon-maze-game/8oXQhMceBV7sLWh3yUyfoFPQ4kLo)**
+[support link](https://ftmdhn.github.io/neon-maze-game/)
 
 <br>
 
