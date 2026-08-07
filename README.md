@@ -19,6 +19,13 @@ A browser-based maze game where you navigate a glowing orb through a labyrinth t
 
 <img width="800" alt="Neon Maze Quest Gameplay" src="https://github.com/user-attachments/assets/2f5093da-b282-437a-beed-7f2d163b3e9d" />
 
+### 🌐 Live Demo
+
+👉 [Click here to view the project online](https://restaurant-landing-page-henna.vercel.app/)  
+[support link](https://ftmdhn.github.io/restaurant-landing-page/)
+
+<br>
+
 ## Getting Started
 
 No build tools or dependencies required.
@@ -36,9 +43,9 @@ git clone https://github.com/FtmDhn/neon-maze-quest.git
 
 **Fatemeh Dehghani**
 
-- [LinkedIn](لینک-پروفایل-لینکدین-خود-را-اینجا-بگذارید)
+- [LinkedIn](https://www.linkedin.com/in/fatemeh-dehghani-060973314/)
 - [GitHub](https://github.com/FtmDhn)
-- [Instagram](https://github.com/FtmDhn)
+- [Instagram](https://www.instagram.com/ftm.dehgni/)
 
 
 
