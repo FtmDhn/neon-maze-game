@@ -1,4 +1,4 @@
-# ⚡ Neon Maze Quest
+#  Neon Maze Quest
 
 A sleek, interactive maze game built from scratch. Navigate the neon ball through the labyrinth without hitting the walls to reach the goal! 
 
@@ -22,7 +22,7 @@ This project was built to demonstrate dynamic DOM manipulation, responsive UI de
 3. Use your **Arrow Keys** (↑, ↓, ←, →) to guide the ball through the maze.
 4. Avoid the walls, or you'll lose a life!
 
-<img width="1402" height="1122" alt="Image" src="https://github.com/user-attachments/assets/2f5093da-b282-437a-beed-7f2d163b3e9d" />
+<img width="1302" height="1022" alt="Image" src="https://github.com/user-attachments/assets/2f5093da-b282-437a-beed-7f2d163b3e9d" />
 ## 👩‍💻 Developed by
 **Fatemeh Dehghani**
 - [Portfolio/LinkedIn](https://linkedin.com/in/FatemehDehghani)
